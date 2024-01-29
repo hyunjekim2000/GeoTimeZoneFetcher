@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/hyunjekim2000/GeoTimeZoneFetcher.git]
+   git clone https://github.com/hyunjekim2000/GeoTimeZoneFetcher.git
    ```
 2. Install the required Python packages:
    ```
