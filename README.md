@@ -44,10 +44,6 @@ To use this script, follow these steps:
    Replace `script_name.py` with the name of your script, `<input_file.xlsx>` with the name of your input file, and `<output_file.xlsx>` with the desired name for your output file.
 
 
-## Contact
-
-If you want to contact me, you can reach me at [k3h0j8@vt.edu].
-
 ## License
 
 This project is free to use. 
